@@ -1,5 +1,5 @@
 <h2>Brian <img src="https://www.fg-a.com/flags/argentina-flag-animated.gif" width="25"></h2>
-<img align='right' src="https://images-ext-1.discordapp.net/external/5oHl0OubNmsQHQvcTpXfbkKHZVkZ-Srv2W9Gw-P-FMs/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1145780955924140062/a285c1de428d1c80b5ddd7971e1e27d7.png?format=webp&quality=lossless" width="230">
+<img align='right' src="https://images-ext-1.discordapp.net/external/5oHl0OubNmsQHQvcTpXfbkKHZVkZ-Srv2W9Gw-P-FMs/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1145780955924140062/a285c1de428d1c80b5ddd7971e1e27d7.png?format=webp&quality=lossless" style="border-radius:20px;" width="230">
 <p><em>Developer in <a href="https://anticheat.site">Ocean Anticheat</a>
 </br>Developer in <a href="https://goldentool.net">Golden Anticheat</a>
 </em></p>

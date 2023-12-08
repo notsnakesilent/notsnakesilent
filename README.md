@@ -1,7 +1,6 @@
 <h2>Brian <img src="https://www.fg-a.com/flags/argentina-flag-animated.gif" width="25"></h2>
-<img align='right' src="https://cdn.discordapp.com/avatars/1145780955924140062/15390f2f2afc1d9563399c4062130e7d.png?size=1024" style="border-radius:50%;" width="230">
+<img align='right' src="https://i.imgur.com/TsGujdu.png" style="border-radius:50%;" width="230">
 <p><em>Developer in <a href="https://anticheat.site">Ocean Anticheat</a>
-</br>Developer in <a href="https://goldentool.net">Golden Anticheat</a>
 </em></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brian.wal118/) [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notsnakesilent)

@@ -10,5 +10,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=notsnakesilent&show_icons=true&theme=transparent)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=notsnakesilent&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=notsnakesilent&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=notsnakesilent&show_icons=true&theme=dark)

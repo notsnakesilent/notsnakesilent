@@ -11,3 +11,4 @@
 
 ### Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=notsnakesilent&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=notsnakesilent)

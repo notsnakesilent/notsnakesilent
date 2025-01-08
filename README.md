@@ -5,13 +5,14 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brian.wal118/) [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notsnakesilent)
 
+<p align="center">
+  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=notsnakesilent&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=notsnakesilent&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+</p>
 
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=notsnakesilent&show_icons=true&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=notsnakesilent&show_icons=true&theme=dark)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=notsnakesilent&theme=tokyonight"/>
+</p>
 
 <h4 align="center">💻 Programming languages (and html)</h4>
 

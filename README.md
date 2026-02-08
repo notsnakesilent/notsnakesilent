@@ -1,13 +1,9 @@
 <h2>Brian <img src="https://www.fg-a.com/flags/argentina-flag-animated.gif" width="25"></h2>
 <img align='right' src="https://i.imgur.com/TsGujdu.png" style="border-radius:50%;" width="230">
-<p><em>Owner and FullTime Developer/Detections manager at <a href="https://anticheat.ac">Ocean Anticheat</a>
+<p><em>Owner and Developer at <a href="https://anticheat.ac">Ocean Anticheat</a>
 </em></p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brian.wal118/) [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notsnakesilent)
-
-<p align="center">
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=notsnakesilent&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brian.wal118/)
 
 
 <h4 align="center">💻 Programming languages (and html)</h4>
@@ -15,6 +11,7 @@
 <p align="center">
 <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+<img alt="C" src="https://img.shields.io/badge/-C-gray?logo=c"></a>
 <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"></a>
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"></a>
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>
@@ -41,20 +38,6 @@
   <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
   <a href="#"><img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52.svg?logo=qt&logoColor=white"></a>
   <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwind-css&logoColor=white"></a>
-</p>
-
-<h4 align="center">⚙ Software</h4>
-
-<p align="center">
-<a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a>
-<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
-<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
-<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 <h4 align="center">☁ Cloud and Providers</h4>

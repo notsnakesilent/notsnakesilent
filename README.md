@@ -6,7 +6,10 @@ Writing tech stuff in <a href="https://anticheat.ac/blog">here</a>
 </em></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brian.wal118/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/notsnakesilent)
 
+Discord: notsnakesilent. (DM me, I don't usually accept friend requests)<br>
+join discord.gg/oceanscanner if you need mutual servers
 
 <h4 align="center">💻 Programming languages (and html)</h4>
 
@@ -32,24 +35,7 @@ Writing tech stuff in <a href="https://anticheat.ac/blog">here</a>
 <img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C.svg?logo=json&logoColor=white">
 </p>
 
-<h4 align="center">📚 Frameworks and Libraries</h4>
-<p align="center">
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/Dotnet-512BD4.svg?logo=dotnet&logoColor=white"></a>
-  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white"></a>
-  <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
-  <a href="#"><img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52.svg?logo=qt&logoColor=white"></a>
-  <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwind-css&logoColor=white"></a>
-</p>
-
-<h4 align="center">☁ Cloud and Providers</h4>
-
-<p align="center">
-<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
-<a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white"></a>
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
-</p>
-
 <br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notsnakesilent&show_icons=true&theme=github_dark&hide_rank=true&bg_color=00000000&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=notsnakesilent&theme=github-dark&hide_border=true&background=00000000)

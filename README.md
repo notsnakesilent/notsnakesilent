@@ -10,11 +10,11 @@ Writing tech stuff in the <a href="https://anticheat.ac/blog">Ocean Anticheat Bl
 Discord: notsnakesilent. (DM me, I don't usually accept friend requests)<br>
 join discord.gg/oceanscanner if you need mutual servers
 
-<h4 align="center">💻 Programming languages (and html)</h4>
+<h4 align="center">💻 Things i use daily</h4>
 
 <p align="center">
 <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"></a>
 <img alt="C" src="https://img.shields.io/badge/-C-gray?logo=c"></a>
 <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"></a>
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"></a>
@@ -32,6 +32,8 @@ join discord.gg/oceanscanner if you need mutual servers
 <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 <img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C.svg?logo=json&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+<img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
 </p>
 
 <br/>

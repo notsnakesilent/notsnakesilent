@@ -1,5 +1,5 @@
 <h2>Brian <img src="https://www.fg-a.com/flags/argentina-flag-animated.gif" width="25"></h2>
-<img align='right' src="https://i.imgur.com/TsGujdu.png" style="border-radius:50%;" width="230">
+<img align='right' src="https://i.imgur.com/TsGujdu.png" style="border-radius:50%;" width="200">
 <p><em>Owner and Developer at <a href="https://anticheat.ac">Ocean Anticheat</a><br>
 Writing tech stuff in the <a href="https://anticheat.ac/blog">Ocean Anticheat Blog</a>
 </em></p>

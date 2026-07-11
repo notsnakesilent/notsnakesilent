@@ -39,4 +39,3 @@ join discord.gg/oceanscanner if you need mutual servers
 <br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notsnakesilent&show_icons=true&theme=github_dark&hide_rank=true&bg_color=00000000&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=notsnakesilent&theme=github-dark&hide_border=true&background=00000000)
